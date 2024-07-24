@@ -1,0 +1,14 @@
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\bin\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.exe
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\bin\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.deps.json
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\bin\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.runtimeconfig.json
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\bin\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.dll
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\bin\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.pdb
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.AssemblyInfoInputs.cache
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.AssemblyInfo.cs
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.csproj.CoreCompileInputs.cache
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.dll
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\refint\Game Theory - Repeated Prisoner's Dilemma.dll
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.pdb
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\Game Theory - Repeated Prisoner's Dilemma.genruntimeconfig.cache
+C:\Projects\Kód\Game Theory - Repeated Prisoner's Dilemma\Game Theory - Repeated Prisoner's Dilemma\obj\Debug\net8.0\ref\Game Theory - Repeated Prisoner's Dilemma.dll

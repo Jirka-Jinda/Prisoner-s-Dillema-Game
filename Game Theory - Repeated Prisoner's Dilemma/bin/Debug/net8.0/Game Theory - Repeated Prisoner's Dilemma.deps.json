@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Game Theory - Repeated Prisoner's Dilemma/1.0.0": {
+        "runtime": {
+          "Game Theory - Repeated Prisoner's Dilemma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game Theory - Repeated Prisoner's Dilemma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
